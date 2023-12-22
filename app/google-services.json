@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202276626010",
+    "project_id": "eximmo-da6d2",
+    "storage_bucket": "eximmo-da6d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202276626010:android:5aea26827c88f237f20263",
+        "android_client_info": {
+          "package_name": "com.example.eximmo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpuj8fs3HXdgNFGoFIlZvmtlFj99AQoz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202276626010:android:97cda22149960dc0f20263",
+        "android_client_info": {
+          "package_name": "com.example.exximo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpuj8fs3HXdgNFGoFIlZvmtlFj99AQoz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
